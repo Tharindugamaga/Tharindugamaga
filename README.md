@@ -7,7 +7,7 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **JAVA**
+- 🌱 I’m currently learning **Flutter**
 
 - 🧑‍🎓 I’m an Undergraduate at **SLIATE**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **tharindupushpa802@gmail.com**
   
-- ⚡ Fun fact **Call me as KD**
+
 
 </td>
 <td width="50%" align="center">
