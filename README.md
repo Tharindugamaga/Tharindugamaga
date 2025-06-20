@@ -1,81 +1,128 @@
-<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
-<h1 align="center">Hi 👋, I'm Tharindu</h1>
-<h3 align="center">SLIATE IT Student | </h3>
+<p align="center" ><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100px"></p>
+<h1 align="center">Hi 👋, I'm Tharindu Gamage</h1>
+<h3 align="center">SLIATE IT Student | Flutter & Web Developer </h3>
+<h3 align="center">A passionate Software Engineer from SLIATE</h3>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=scar1109&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
 
-<table align="center">
-<tr border="none">
-<td width="50%" align="left">
-  
 - 🌱 I’m currently learning **Flutter**
-
 - 🧑‍🎓 I’m an Undergraduate at **SLIATE**
-
-- 💬 Ask me about **Java**
-
-- 📫 How to reach me **tharindupushpa802@gmail.com**
-  
+- 💬 Ask me about **Java, Laravel, or Flutter**
+- 📫 Reach me at **tharindupushpa802@gmail.com**
+- 👨‍💻 All of my projects are available at [https://github.com/tharindugamaga](https://github.com/tharindugamaga)
 
 
 </td>
 <td width="50%" align="center">
-
   <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
-
-  
-  </td>
+</td>
 </tr>
 </table>
 
 ---
 
+<h3 align="center">🚀 Roles I Can Perform</h3>
 
-  
-  
-  
-
-</tr>
-</table>
-
----
-
-<h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.youtube.com/@Tharindu_2" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" alt="Tharindu_2" height="50" width="50" /></a>   
-<a href="www.linkedin.com/in/tharindu-gamage-816a87298" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="Tharindugamaga" height="50" width="50" /></a> <br><br>
-<a href="https://stackoverflow.com/users/22345746/Tharindu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Tharindu" height="50" width="50" /></a> <br><br>
-<a href="https://fb.com/Tha Ri Ndu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Tha Ri Ndu" height="50" width="50" /></a>
-<a href="https://www.instagram.com/tharindu_pushpa/" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="tharindu_pushpa" height="50" width="50" /></a>
-</p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tharindugamaga&show_icons=true&locale=en&layout=compact" alt="tharindugamaga" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tharindugamaga&show_icons=true&locale=en" alt="tharindugamaga" /></p>
----
-
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="bootstrap" width="50" height="50"/> </a> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="c" width="50" height="50"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="cplusplus" width="50" height="50"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="css3" width="50" height="50"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="git" width="50" height="50"/> </a> <br><br>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html5" width="50" height="50"/> </a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="java" width="50" height="50"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="50" height="50"/> </a> 
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/microsoftSQL.svg" alt="mssql" width="50" height="50"/> </a> <br><br>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" alt="mysql" width="50" height="50"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/Photoshop.svg" alt="photoshop" width="50" height="50"/> </a> 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/TailwindCSS-Light.svg" alt="tailwind" width="50" height="50"/> </a> 
-<a href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/DavinchiResolve.svg" alt="DavinchiResolve" width="50" height="50"/> </a> <br><br>
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/AndroidStudio-Light.svg" alt="android" width="50" height="50"/> </a> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Figma-Light.svg" alt="figma" width="50" height="50"/> </a> <br><br>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Python-Light.svg" alt="python" width="50" height="50"/> </a> 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/TypeScript.svg" alt="typescript" width="50" height="50"/> </a> 
+  👨‍💻 Frontend Developer • 🧠 QA Tester • 📱 Mobile App Developer • 🌐 Full-Stack Enthusiast • 🎨 UI/UX Designer
 </p>
 
 ---
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/tharindu gamage"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tharindu gamage" /></a></p><br><br>
 
+---
+
+<h3 align="center">🛠️ My Tech Stack</h3>
+
+<table align="center">
+<tr>
+  <td align="center" colspan="3"><b>👨‍🎨 Frontend</b></td>
+</tr>
+<tr align="center">
+  <td><img src="https://skillicons.dev/icons?i=react" height="40"/><br/>React</td>
+  <td><img src="https://skillicons.dev/icons?i=js" height="40"/><br/>JavaScript</td>
+  <td><img src="https://skillicons.dev/icons?i=html" height="40"/><br/>HTML5</td>
+</tr>
+<tr align="center">
+  <td><img src="https://skillicons.dev/icons?i=css" height="40"/><br/>CSS3</td>
+  <td><img src="https://skillicons.dev/icons?i=tailwind" height="40"/><br/>Tailwind CSS</td>
+  <td><img src="https://skillicons.dev/icons?i=figma" height="40"/><br/>Figma</td>
+</tr>
+
+<tr>
+  <td align="center" colspan="3"><b>🧩 Backend</b></td>
+</tr>
+<tr align="center">
+  <td><img src="https://skillicons.dev/icons?i=nodejs" height="40"/><br/>Node.js</td>
+  <td><img src="https://skillicons.dev/icons?i=php" height="40"/><br/>PHP</td>
+  <td><img src="https://skillicons.dev/icons?i=laravel" height="40"/><br/>Laravel</td>
+</tr>
+
+<tr>
+  <td align="center" colspan="3"><b>🗃️ Database</b></td>
+</tr>
+<tr align="center">
+  <td><img src="https://skillicons.dev/icons?i=mysql" height="40"/><br/>MySQL</td>
+  <td><img src="https://skillicons.dev/icons?i=mongodb" height="40"/><br/>MongoDB</td>
+  <td><img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" height="40"/><br/>phpMyAdmin</td>
+</tr>
+
+<tr>
+  <td align="center" colspan="3"><b>📱 Mobile Development</b></td>
+</tr>
+<tr align="center">
+  <td><img src="https://skillicons.dev/icons?i=flutter" height="40"/><br/>Flutter</td>
+  <td><img src="https://skillicons.dev/icons?i=androidstudio" height="40"/><br/>Android Studio</td>
+  <td><img src="https://skillicons.dev/icons?i=java" height="40"/><br/>Java</td>
+</tr>
+
+<tr>
+  <td align="center" colspan="3"><b>⚙️ Tools & Others</b></td>
+</tr>
+<tr align="center">
+  <td><img src="https://skillicons.dev/icons?i=git" height="40"/><br/>Git</td>
+  <td><img src="https://skillicons.dev/icons?i=github" height="40"/><br/>GitHub</td>
+  <td><img src="https://skillicons.dev/icons?i=wordpress" height="40"/><br/>WordPress</td>
+</tr>
+<tr align="center">
+  <td><img src="https://skillicons.dev/icons?i=python" height="40"/><br/>Python</td>
+  <td><img src="https://skillicons.dev/icons?i=typescript" height="40"/><br/>TypeScript</td>
+  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40"/><br/>Go</td>
+</tr>
+</table>
+
+
+---
+
+<h3 align="center">📲 Connect with Me</h3>
+
+<p align="center">
+  <a href="https://www.youtube.com/@Tharindu_2" target="_blank"><img src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" height="40"/></a>
+  <a href="https://www.linkedin.com/in/tharindu-gamage-816a87298" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="https://stackoverflow.com/users/22345746/Tharindu" target="_blank"><img src="https://skillicons.dev/icons?i=stackoverflow" height="40"/></a>
+  <a href="https://www.instagram.com/tharindu_pushpa/" target="_blank"><img src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" height="40"/></a>
+  <a href="https://fb.com/Tha Ri Ndu" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" height="40"/></a>
+</p>
+
+---
+
+<h3 align="center">📊 GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tharindugamaga&show_icons=true&theme=default" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharindugamaga&layout=compact" height="180"/>
+</p>
+
+---
+
+<h3 align="center">☕ Support Me</h3>
+<p align="center"><a href="https://www.buymeacoffee.com/tharindugamage"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" alt="Buy Me A Coffee"></a></p>
+
+---
+
+### <p align="center">© 2025 Tharindu Gamage | All Rights Reserved</p>
+<p align="center">📧 tharindupushpa802@gmail.com</p>
+<p align="center">
+  <a href="https://www.youtube.com/@Tharindu_2"><img src="https://skillicons.dev/icons?i=youtube" height="25"/></a>
+  <a href="https://www.linkedin.com/in/tharindu-gamage-816a87298"><img src="https://skillicons.dev/icons?i=linkedin" height="25"/></a>
+  <a href="https://www.instagram.com/tharindu_pushpa/"><img src="https://skillicons.dev/icons?i=instagram" height="25"/></a>
+</p>
