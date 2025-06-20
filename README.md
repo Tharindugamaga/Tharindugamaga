@@ -36,65 +36,40 @@
 
 ---
 
-<h3 align="center">🛠️ My Tech Stack</h3>
 
-<table align="center">
-<tr>
-  <td align="center" colspan="3"><b>👨‍🎨 Frontend</b></td>
-</tr>
-<tr align="center">
-  <td><img src="https://skillicons.dev/icons?i=react" height="40"/><br/>React</td>
-  <td><img src="https://skillicons.dev/icons?i=js" height="40"/><br/>JavaScript</td>
-  <td><img src="https://skillicons.dev/icons?i=html" height="40"/><br/>HTML5</td>
-</tr>
-<tr align="center">
-  <td><img src="https://skillicons.dev/icons?i=css" height="40"/><br/>CSS3</td>
-  <td><img src="https://skillicons.dev/icons?i=tailwind" height="40"/><br/>Tailwind CSS</td>
-  <td><img src="https://skillicons.dev/icons?i=figma" height="40"/><br/>Figma</td>
-</tr>
 
-<tr>
-  <td align="center" colspan="3"><b>🧩 Backend</b></td>
-</tr>
-<tr align="center">
-  <td><img src="https://skillicons.dev/icons?i=nodejs" height="40"/><br/>Node.js</td>
-  <td><img src="https://skillicons.dev/icons?i=php" height="40"/><br/>PHP</td>
-  <td><img src="https://skillicons.dev/icons?i=laravel" height="40"/><br/>Laravel</td>
-</tr>
+### 🛠️ My Tech Stack
 
-<tr>
-  <td align="center" colspan="3"><b>🗃️ Database</b></td>
-</tr>
-<tr align="center">
-  <td><img src="https://skillicons.dev/icons?i=mysql" height="40"/><br/>MySQL</td>
-  <td><img src="https://skillicons.dev/icons?i=mongodb" height="40"/><br/>MongoDB</td>
-  <td><img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" height="40"/><br/>phpMyAdmin</td>
-</tr>
+#### 👨‍🎨 Frontend
+![React](https://skillicons.dev/icons?i=react) 
+![JavaScript](https://skillicons.dev/icons?i=js) 
+![HTML](https://skillicons.dev/icons?i=html) 
+![CSS](https://skillicons.dev/icons?i=css) 
+![TailwindCSS](https://skillicons.dev/icons?i=tailwind) 
+![Figma](https://skillicons.dev/icons?i=figma)
 
-<tr>
-  <td align="center" colspan="3"><b>📱 Mobile Development</b></td>
-</tr>
-<tr align="center">
-  <td><img src="https://skillicons.dev/icons?i=flutter" height="40"/><br/>Flutter</td>
-  <td><img src="https://skillicons.dev/icons?i=androidstudio" height="40"/><br/>Android Studio</td>
-  <td><img src="https://skillicons.dev/icons?i=java" height="40"/><br/>Java</td>
-  <td><img src="https://skillicons.dev/icons?i=dart" height="40"/><br/>Dart</td>
-</tr>
+#### 🧩 Backend
+![Node.js](https://skillicons.dev/icons?i=nodejs) 
+![PHP](https://skillicons.dev/icons?i=php) 
+![Laravel](https://skillicons.dev/icons?i=laravel)
 
-<tr>
-  <td align="center" colspan="3"><b>⚙️ Tools & Others</b></td>
-</tr>
-<tr align="center">
-  <td><img src="https://skillicons.dev/icons?i=git" height="40"/><br/>Git</td>
-  <td><img src="https://skillicons.dev/icons?i=github" height="40"/><br/>GitHub</td>
-  <td><img src="https://skillicons.dev/icons?i=wordpress" height="40"/><br/>WordPress</td>
-</tr>
-<tr align="center">
-  <td><img src="https://skillicons.dev/icons?i=python" height="40"/><br/>Python</td>
-  <td><img src="https://skillicons.dev/icons?i=typescript" height="40"/><br/>TypeScript</td>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40"/><br/>Go</td>
-</tr>
-</table>
+#### 🗃️ Database
+![MySQL](https://skillicons.dev/icons?i=mysql) 
+![MongoDB](https://skillicons.dev/icons?i=mongodb) 
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="40" title="phpMyAdmin"/>
+
+#### 📱 Mobile Development
+![Flutter](https://skillicons.dev/icons?i=flutter) 
+![Android Studio](https://skillicons.dev/icons?i=androidstudio) 
+![Java](https://skillicons.dev/icons?i=java)
+
+#### ⚙️ Tools & Others
+![Git](https://skillicons.dev/icons?i=git) 
+![GitHub](https://skillicons.dev/icons?i=github) 
+![WordPress](https://skillicons.dev/icons?i=wordpress) 
+![Python](https://skillicons.dev/icons?i=python) 
+![TypeScript](https://skillicons.dev/icons?i=typescript) 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" title="GoLang"/>
 
 
 ---
