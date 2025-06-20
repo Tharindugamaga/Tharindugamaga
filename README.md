@@ -3,21 +3,25 @@
 <h3 align="center">SLIATE IT Student | Flutter & Web Developer </h3>
 <h3 align="center">A passionate Software Engineer from SLIATE</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=scar1109&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
+<table align="center">
+<tr border="none">
+  <!-- Image on the Left -->
+  <td width="50%" align="center">
+    <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+  </td>
 
-- 🌱 I’m currently learning **Flutter**
-- 🧑‍🎓 I’m an Undergraduate at **SLIATE**
-- 💬 Ask me about **Java, Laravel, or Flutter**
+  <!-- Details on the Right -->
+  <td width="50%" align="left">
+
+- 🌱 I’m currently learning **Flutter**  
+- 🧑‍🎓 I’m an Undergraduate at **SLIATE**  
+- 💬 Ask me about **Java, Laravel, or Flutter**  
 - 📫 Reach me at **tharindupushpa802@gmail.com**
-- 👨‍💻 All of my projects are available at [https://github.com/tharindugamaga](https://github.com/tharindugamaga)
 
-
-</td>
-<td width="50%" align="center">
-  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
-</td>
+  </td>
 </tr>
 </table>
+
 
 ---
 
