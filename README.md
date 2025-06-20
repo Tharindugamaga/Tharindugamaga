@@ -48,7 +48,7 @@
 <a href="https://www.instagram.com/tharindu_pushpa/" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="tharindu_pushpa" height="50" width="50" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tharindugamaga&" alt="tharindugamaga" /></p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tharindugamaga&show_icons=true&locale=en&layout=compact" alt="tharindugamaga" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tharindugamaga&show_icons=true&locale=en" alt="tharindugamaga" /></p>
