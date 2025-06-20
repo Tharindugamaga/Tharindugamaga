@@ -16,7 +16,8 @@
 - 🌱 I’m currently learning **Flutter**  
 - 🧑‍🎓 I’m an Undergraduate at **SLIATE**  
 - 💬 Ask me about **Java, Laravel, or Flutter**  
-- 📫 Reach me at **tharindupushpa802@gmail.com**
+- 📫 Reach me at **tharindupushpa802@gmail.com** or [📱 WhatsApp Me](https://wa.me/94763456789) for hiring inquiries
+
 
   </td>
 </tr>
