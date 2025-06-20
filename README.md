@@ -31,7 +31,7 @@
   👨‍💻 Frontend Developer • 🧠 QA Tester • 📱 Mobile App Developer • 🌐 Full-Stack Enthusiast • 🎨 UI/UX Designer
 </p>
 
----
+
 
 ---
 
@@ -77,6 +77,7 @@
   <td><img src="https://skillicons.dev/icons?i=flutter" height="40"/><br/>Flutter</td>
   <td><img src="https://skillicons.dev/icons?i=androidstudio" height="40"/><br/>Android Studio</td>
   <td><img src="https://skillicons.dev/icons?i=java" height="40"/><br/>Java</td>
+  <td><img src="https://skillicons.dev/icons?i=dart" height="40"/><br/>Dart</td>
 </tr>
 
 <tr>
